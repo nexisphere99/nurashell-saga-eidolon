@@ -4245,7 +4245,7 @@ The moment the agent tapped the panel, the hologram exploded into neon. Chrome t
 
 My pulse jumped too. The header flashed across the glowing skyline:
 
-<span style="color: red; font-size: 30px;">EIDOLON CITY  -  CYBERPUNK SANDBOX EXPERIENCE</span>
+<span style="color: red; font-size: 30px;">EIDOLON CITY  -  CYBERPUNK EXPERIENCE</span>
 
 
 <<img "images/scene/part_1/eidolon_city.jpeg" "header">>
@@ -4712,4 +4712,4 @@ I sat up again, finally deciding. I placed my hand on the VR case, Paused and wh
 
 That’s where I stopped. On the edge. The headset unopened. My exhaustion pulling me toward sleep… My curiosity pulling me toward VR… and Ava’s voice, gentle, hopeful, pulling me toward tomorrow.
 
-[[Wait till Tomorrow]] | [[Login Tonight]]
+[[Wait till Tomorrow|day_5_1_str]] | [[Login Tonight|day_4_21_les]]
